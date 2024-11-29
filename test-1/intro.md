@@ -1,8 +1,6 @@
 
-<br>
+### Welcome to StackHPC's Killercoda challenge
 
-### Welcome !
+This is a self-contained Kubernetes environment with access to standard Kubernetes tools such as `kubectl`.
 
-In this scenario we'll learn how to list all pods in the cluster.
-
-**HAVE FUN**
+You will be guided through a sequence of short problem solving tasks. These are intended to be a challenge and you are not expected to know all of the answers immediately - having a clear process for tackling unfamiliar problems is much more important!

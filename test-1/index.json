@@ -7,8 +7,12 @@
       },
       "steps": [
         {
-          "title": "List all pods",
-          "text": "step-1.md"
+          "title": "Part 1",
+          "text": "part-1.md"
+        },
+        {
+            "title": "Part 1 Solutions",
+            "text": "part-1-sol.md"
         }
       ],
       "finish": {
