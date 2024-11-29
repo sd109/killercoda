@@ -13,10 +13,27 @@
         {
             "title": "Part 1 Solutions",
             "text": "part-1-sol.md"
+        },
+        {
+            "title": "A Troublesome Customer Application",
+            "text": "part-2.md"
+        },
+        {
+            "title": "A Troublesome Customer Application",
+            "text": "part-3.md"
+        },
+        {
+            "title": "A Troublesome Customer Application",
+            "text": "part-4.md"
         }
       ],
       "finish": {
         "text": "finish.md"
+      },
+      "assets": {
+        "host01": [
+          {"file": "app/**", "target": "~/"}
+        ]
       }
     },
     "backend": {

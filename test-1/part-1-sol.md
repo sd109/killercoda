@@ -22,7 +22,9 @@ Start by exploring the environment using the `kubectl` command. Here are some su
 
 - How might you extract the `kubeconfig` file for the cluster?
 
-**Solution:** `kubectl config view --raw`{{exec}} (or any `kubectl` command in extra verbose mode with `-v6` e.g. `kubectl get nodes -v6`{{exec}})
+**Solution:** `kubectl config view --raw`{{exec}}
+
+**Alternative Solution:** Any `kubectl` command in extra verbose mode with `-v6` e.g. `kubectl get nodes -v6`{{exec}}
 
 - What is the IP address of each cluster node?
 
